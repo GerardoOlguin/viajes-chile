@@ -1,0 +1,110 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+
+
+.navbar{
+
+    background-color: black;
+}
+
+.logo{
+    width: 10vh;
+   margin-right:10px;
+}
+html, body {
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.quienes-somos{
+
+background-color: black;
+
+}
+
+.bg-secondary{
+
+   height: 10%;
+}
+
+.destacados{
+
+padding-top: 4.5em;
+}
+
+.hr{
+margin-bottom: 30px;
+width: 1500px;
+
+}
+
+.tarjetas{
+
+    background-color: black;
+    margin-top: -2em;
+    width: 100%;
+}
+
+
+.contacto{
+
+    background-color: black;
+}
+
+.titulo-contacto{
+
+padding-top: 5em;
+
+}
+
+
+.viajes-chile{
+
+ font-size: 1.5em;   
+}
+
+
+.texto{
+
+font-weight: 600;
+
+}
+.carousel-inner{
+    margin-top: 5em;
+}
+
+.tarjetas a:hover img{
+
+    filter: blur(2px);
+}
+.navbar ul li a:hover{
+    color: cadetblue !important;
+}
+.modal-body{
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+
+i{
+
+    color: white;
+} 
+
+i:hover{
+
+    color:black;
+}  
+.modal{
+padding: 0px;
+}
+.formulario{
+    background-color:transparent;
+}
